@@ -1,6 +1,4 @@
 a
-<<<<<<< HEAD
 no longer a text file
-=======
 im clucking up my repo lmao
->>>>>>> cb9d8ca (Updated by me)
+lk
